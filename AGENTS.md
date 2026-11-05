@@ -1,3 +1,7 @@
+---
+type: Overview
+---
+
 # Kiso
 
 ## Project description

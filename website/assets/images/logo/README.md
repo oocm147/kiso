@@ -1,3 +1,7 @@
+---
+type: Overview
+---
+
 # Kiso logo system
 
 Generated SVG assets for Kiso.

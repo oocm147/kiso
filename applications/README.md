@@ -1,3 +1,7 @@
+---
+type: Overview
+---
+
 # Applications
 
 This directory contains all executable applications built from the Kiso codebase.

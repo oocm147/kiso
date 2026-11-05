@@ -1,3 +1,7 @@
+---
+type: Specification
+---
+
 # Open Knowledge Format (OKF)
 
 **Version 0.1 — Draft**

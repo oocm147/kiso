@@ -1,3 +1,7 @@
+---
+type: Overview
+---
+
 # Kiso
 
 Kiso provides two applications built around [Open Knowledge Format](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) (OKF) bundles:
